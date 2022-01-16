@@ -16,7 +16,7 @@ A convolutional neural network is a Deep Learning algorithm which can take in an
 
 3)Model Building
 
-4) Testing Model Accuracy
+4)Testing Model Accuracy
 
 Loss graph
 
